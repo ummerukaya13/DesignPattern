@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "FactoryDesignPatternDemo.Controllers.StreamController",
+    "Method": "GetMovies",
+    "RelativePath": "Stream/movies/{userSelection}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userSelection",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

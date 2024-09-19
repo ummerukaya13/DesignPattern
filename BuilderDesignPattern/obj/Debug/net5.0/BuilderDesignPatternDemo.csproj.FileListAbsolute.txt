@@ -1,0 +1,86 @@
+C:\Europe\Origo\BuilderDesignPattern\bin\Debug\net5.0\appsettings.Development.json
+C:\Europe\Origo\BuilderDesignPattern\bin\Debug\net5.0\appsettings.json
+C:\Europe\Origo\BuilderDesignPattern\bin\Debug\net5.0\BuilderDesignPatternDemo.exe
+C:\Europe\Origo\BuilderDesignPattern\bin\Debug\net5.0\BuilderDesignPatternDemo.deps.json
+C:\Europe\Origo\BuilderDesignPattern\bin\Debug\net5.0\BuilderDesignPatternDemo.runtimeconfig.json
+C:\Europe\Origo\BuilderDesignPattern\bin\Debug\net5.0\BuilderDesignPatternDemo.runtimeconfig.dev.json
+C:\Europe\Origo\BuilderDesignPattern\bin\Debug\net5.0\BuilderDesignPatternDemo.dll
+C:\Europe\Origo\BuilderDesignPattern\bin\Debug\net5.0\BuilderDesignPatternDemo.pdb
+C:\Europe\Origo\BuilderDesignPattern\bin\Debug\net5.0\BuilderDesignPatternDemo.Views.dll
+C:\Europe\Origo\BuilderDesignPattern\bin\Debug\net5.0\BuilderDesignPatternDemo.Views.pdb
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.AssemblyInfoInputs.cache
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.AssemblyInfo.cs
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.csproj.CoreCompileInputs.cache
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.RazorAssemblyInfo.cache
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.RazorAssemblyInfo.cs
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.TagHelpers.input.cache
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.TagHelpers.output.cache
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.RazorCoreGenerate.cache
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.RazorTargetAssemblyInfo.cache
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.RazorTargetAssemblyInfo.cs
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.Views.pdb
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\scopedcss\bundle\BuilderDesignPatternDemo.styles.css
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\staticwebassets\BuilderDesignPatternDemo.StaticWebAssets.Manifest.cache
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\staticwebassets\BuilderDesignPatternDemo.StaticWebAssets.Pack.cache
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\staticwebassets\msbuild.BuilderDesignPatternDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\staticwebassets\msbuild.build.BuilderDesignPatternDemo.props
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.BuilderDesignPatternDemo.props
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.BuilderDesignPatternDemo.props
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.dll
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\refint\BuilderDesignPatternDemo.dll
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.pdb
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.genruntimeconfig.cache
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\ref\BuilderDesignPatternDemo.dll
+C:\Europe\Origo\BuilderDesignPattern\obj\Debug\net5.0\BuilderD.94F3F8F4.Up2Date
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\bin\Debug\net5.0\appsettings.Development.json
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\bin\Debug\net5.0\appsettings.json
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\bin\Debug\net5.0\BuilderDesignPatternDemo.exe
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\bin\Debug\net5.0\BuilderDesignPatternDemo.deps.json
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\bin\Debug\net5.0\BuilderDesignPatternDemo.runtimeconfig.json
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\bin\Debug\net5.0\BuilderDesignPatternDemo.runtimeconfig.dev.json
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\bin\Debug\net5.0\BuilderDesignPatternDemo.dll
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\bin\Debug\net5.0\BuilderDesignPatternDemo.pdb
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\bin\Debug\net5.0\BuilderDesignPatternDemo.Views.dll
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\bin\Debug\net5.0\BuilderDesignPatternDemo.Views.pdb
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.AssemblyInfoInputs.cache
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.AssemblyInfo.cs
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.csproj.CoreCompileInputs.cache
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.RazorAssemblyInfo.cache
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.RazorAssemblyInfo.cs
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.TagHelpers.input.cache
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.TagHelpers.output.cache
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.RazorCoreGenerate.cache
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.RazorTargetAssemblyInfo.cache
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.RazorTargetAssemblyInfo.cs
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.Views.pdb
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\scopedcss\bundle\BuilderDesignPatternDemo.styles.css
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\staticwebassets\BuilderDesignPatternDemo.StaticWebAssets.Manifest.cache
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\staticwebassets\BuilderDesignPatternDemo.StaticWebAssets.Pack.cache
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\staticwebassets\msbuild.BuilderDesignPatternDemo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\staticwebassets\msbuild.build.BuilderDesignPatternDemo.props
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.BuilderDesignPatternDemo.props
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.BuilderDesignPatternDemo.props
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.dll
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\refint\BuilderDesignPatternDemo.dll
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.pdb
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\BuilderDesignPatternDemo.genruntimeconfig.cache
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\ref\BuilderDesignPatternDemo.dll
+C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\obj\Debug\net5.0\BuilderD.94F3F8F4.Up2Date
