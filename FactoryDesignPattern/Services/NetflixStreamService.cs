@@ -2,6 +2,10 @@
 {
     public class NetflixStreamService : IStreamService
     {
+
+        public NetflixStreamService()
+        {
+        }
         public string[] ShowMovies()
         {
             return new string[] 

@@ -23,12 +23,10 @@ builder.Services.AddSwaggerGen(c =>
         }
     });
 });
-
+builder.Services.AddLogging();
 builder.Services.AddScoped<StreamFactory>();
-builder.Services.AddScoped<NetflixStreamService>()
-    .AddScoped<IStreamService, NetflixStreamService>(s => s.GetService<NetflixStreamService>());
-builder.Services.AddScoped<AmazonStreamService>()
-    .AddScoped<IStreamService, AmazonStreamService>(s => s.GetService<AmazonStreamService>());
+builder.Services.AddTransient<IStreamService,NetflixStreamService>();
+builder.Services.AddTransient<IStreamService,AmazonStreamService>();
 
 var app = builder.Build();
 

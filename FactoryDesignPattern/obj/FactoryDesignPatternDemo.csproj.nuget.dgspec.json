@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Europe\\Techstep-Origo\\Design Pattern\\FactoryDesignPattern\\FactoryDesignPatternDemo\\FactoryDesignPatternDemo.csproj": {}
+    "C:\\Europe\\Techstep-Origo\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPatternDemo.csproj": {}
   },
   "projects": {
-    "C:\\Europe\\Techstep-Origo\\Design Pattern\\FactoryDesignPattern\\FactoryDesignPatternDemo\\FactoryDesignPatternDemo.csproj": {
+    "C:\\Europe\\Techstep-Origo\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPatternDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Europe\\Techstep-Origo\\Design Pattern\\FactoryDesignPattern\\FactoryDesignPatternDemo\\FactoryDesignPatternDemo.csproj",
+        "projectUniqueName": "C:\\Europe\\Techstep-Origo\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPatternDemo.csproj",
         "projectName": "FactoryDesignPatternDemo",
-        "projectPath": "C:\\Europe\\Techstep-Origo\\Design Pattern\\FactoryDesignPattern\\FactoryDesignPatternDemo\\FactoryDesignPatternDemo.csproj",
+        "projectPath": "C:\\Europe\\Techstep-Origo\\DesignPattern\\FactoryDesignPattern\\FactoryDesignPatternDemo.csproj",
         "packagesPath": "C:\\Users\\BS990.BS-990\\.nuget\\packages\\",
-        "outputPath": "C:\\Europe\\Techstep-Origo\\Design Pattern\\FactoryDesignPattern\\FactoryDesignPatternDemo\\obj\\",
+        "outputPath": "C:\\Europe\\Techstep-Origo\\DesignPattern\\FactoryDesignPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

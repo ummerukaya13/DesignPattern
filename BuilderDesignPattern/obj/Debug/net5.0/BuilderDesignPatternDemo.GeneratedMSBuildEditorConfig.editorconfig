@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BuilderDesignPatternDemo
-build_property.ProjectDir = C:\Europe\Techstep-Origo\Design Pattern\BuilderDesignPattern\
+build_property.ProjectDir = C:\Europe\Techstep-Origo\DesignPattern\BuilderDesignPattern\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

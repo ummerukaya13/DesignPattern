@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E09ACFA8-00E5-4189-B140-D6DE8872BDB3}|BuilderDesignPatternDemo.csproj|c:\\europe\\techstep-origo\\design pattern\\builderdesignpattern\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E09ACFA8-00E5-4189-B140-D6DE8872BDB3}|BuilderDesignPatternDemo.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09ACFA8-00E5-4189-B140-D6DE8872BDB3}|BuilderDesignPatternDemo.csproj|c:\\europe\\techstep-origo\\design pattern\\builderdesignpattern\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E09ACFA8-00E5-4189-B140-D6DE8872BDB3}|BuilderDesignPatternDemo.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09ACFA8-00E5-4189-B140-D6DE8872BDB3}|BuilderDesignPatternDemo.csproj|c:\\europe\\techstep-origo\\design pattern\\builderdesignpattern\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E09ACFA8-00E5-4189-B140-D6DE8872BDB3}|BuilderDesignPatternDemo.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09ACFA8-00E5-4189-B140-D6DE8872BDB3}|BuilderDesignPatternDemo.csproj|c:\\europe\\techstep-origo\\design pattern\\builderdesignpattern\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E09ACFA8-00E5-4189-B140-D6DE8872BDB3}|BuilderDesignPatternDemo.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E09ACFA8-00E5-4189-B140-D6DE8872BDB3}|BuilderDesignPatternDemo.csproj|c:\\europe\\techstep-origo\\design pattern\\builderdesignpattern\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E09ACFA8-00E5-4189-B140-D6DE8872BDB3}|BuilderDesignPatternDemo.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -74,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 17,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,7 +130,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T13:37:46.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T13:37:44.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T13:37:41.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T13:37:38.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "IPlanBuilder.cs",
               "DocumentMoniker": "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\Services\\IPlanBuilder.cs",
               "RelativeDocumentMoniker": "Services\\IPlanBuilder.cs",
@@ -127,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "PlanBuilderFactory.cs",
               "DocumentMoniker": "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\Factories\\PlanBuilderFactory.cs",
               "RelativeDocumentMoniker": "Factories\\PlanBuilderFactory.cs",
@@ -140,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "PlanType.cs",
               "DocumentMoniker": "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\Enums\\PlanType.cs",
               "RelativeDocumentMoniker": "Enums\\PlanType.cs",
@@ -153,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "IPlanBuilderFactory.cs",
               "DocumentMoniker": "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\Factories\\IPlanBuilderFactory.cs",
               "RelativeDocumentMoniker": "Factories\\IPlanBuilderFactory.cs",
@@ -166,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "BasicPlanBuilder.cs",
               "DocumentMoniker": "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\Services\\BasicPlanBuilder.cs",
               "RelativeDocumentMoniker": "Services\\BasicPlanBuilder.cs",
@@ -179,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Plan.cs",
               "DocumentMoniker": "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\Models\\Plan.cs",
               "RelativeDocumentMoniker": "Models\\Plan.cs",
@@ -192,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "IPlanDirector.cs",
               "DocumentMoniker": "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\Services\\IPlanDirector.cs",
               "RelativeDocumentMoniker": "Services\\IPlanDirector.cs",
@@ -205,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\Startup.cs",
               "RelativeDocumentMoniker": "Startup.cs",
@@ -218,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -231,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "EnterprisePlanBuilder.cs",
               "DocumentMoniker": "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\Services\\EnterprisePlanBuilder.cs",
               "RelativeDocumentMoniker": "Services\\EnterprisePlanBuilder.cs",
@@ -244,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -257,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Plans.cs",
               "DocumentMoniker": "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\Enums\\Plans.cs",
               "RelativeDocumentMoniker": "Enums\\Plans.cs",
@@ -269,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "EnterprisePlanFactory.cs",
               "DocumentMoniker": "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\Factories\\EnterprisePlanFactory.cs",
               "RelativeDocumentMoniker": "Factories\\EnterprisePlanFactory.cs",
@@ -281,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "BasicPlanFactory.cs",
               "DocumentMoniker": "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\Factories\\BasicPlanFactory.cs",
               "RelativeDocumentMoniker": "Factories\\BasicPlanFactory.cs",
@@ -293,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "PlanFactory.cs",
               "DocumentMoniker": "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\Factories\\PlanFactory.cs",
               "RelativeDocumentMoniker": "Factories\\PlanFactory.cs",
@@ -305,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

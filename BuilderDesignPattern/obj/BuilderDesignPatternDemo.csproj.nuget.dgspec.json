@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\BuilderDesignPatternDemo.csproj": {}
+    "C:\\Europe\\Techstep-Origo\\DesignPattern\\BuilderDesignPattern\\BuilderDesignPatternDemo.csproj": {}
   },
   "projects": {
-    "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\BuilderDesignPatternDemo.csproj": {
+    "C:\\Europe\\Techstep-Origo\\DesignPattern\\BuilderDesignPattern\\BuilderDesignPatternDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\BuilderDesignPatternDemo.csproj",
+        "projectUniqueName": "C:\\Europe\\Techstep-Origo\\DesignPattern\\BuilderDesignPattern\\BuilderDesignPatternDemo.csproj",
         "projectName": "BuilderDesignPatternDemo",
-        "projectPath": "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\BuilderDesignPatternDemo.csproj",
+        "projectPath": "C:\\Europe\\Techstep-Origo\\DesignPattern\\BuilderDesignPattern\\BuilderDesignPatternDemo.csproj",
         "packagesPath": "C:\\Users\\BS990.BS-990\\.nuget\\packages\\",
-        "outputPath": "C:\\Europe\\Techstep-Origo\\Design Pattern\\BuilderDesignPattern\\obj\\",
+        "outputPath": "C:\\Europe\\Techstep-Origo\\DesignPattern\\BuilderDesignPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
